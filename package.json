@@ -1,0 +1,20 @@
+{
+  "name": "node-do-dyndns",
+  "version": "0.0.1",
+  "keywords": [
+    "Digitial Ocean",
+    "DNS",
+    "DynDns"
+  ],
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeysteele/node-do-dyndns"
+  },
+  "author": "Michael Westcott",
+  "contributors": [],
+  "dependencies": {
+    "public-ip": "^2.0.1",
+    "request": "^2.75.0"
+  }
+}
